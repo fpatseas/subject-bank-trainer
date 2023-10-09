@@ -1,1 +1,1 @@
-# subject-bank-scraper
+# subject-bank-trainer
